@@ -21,3 +21,7 @@ This section should list any major frameworks that you built your project using.
 
 
 ## Getting Started
+
+## Usage
+You may also link to youtube for more information
+[Banking Assistant's usage](https://www.youtube.com/watch?v=dnZbtPNeZTo)
