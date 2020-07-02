@@ -9,6 +9,7 @@
 * [Contributing](#contributing)
 
 ## About the project
+Banking Assistant is a application for the bank that helps bank's employee t
 
 ### Built With
 This section should list any major frameworks that you built your project using. 
