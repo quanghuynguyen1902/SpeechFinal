@@ -14,7 +14,7 @@ This section should list any major frameworks that you built your project using.
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 * [Vuejs](https://vuejs.org/)
 * [GoogleAPI](https://cloud.google.com/speech-to-text)
-* [Coccoc-tokenizer](https://github.com/coccoc/coccoc-tokenizer
+* [Coccoc-tokenizer](https://github.com/coccoc/coccoc-tokenizer)
  
 ## Usage
 You may also link to youtube for more information <br>
