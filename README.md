@@ -9,7 +9,7 @@
 * [Contributing](#contributing)
 
 ## About the project
-Banking Assistant is a application for the bank that helps bank's employee t
+Banking Assistant is a application for the bank that helps bank's employee to answer customer's questions.
 
 ### Built With
 This section should list any major frameworks that you built your project using. 
@@ -23,5 +23,5 @@ This section should list any major frameworks that you built your project using.
 ## Getting Started
 
 ## Usage
-You may also link to youtube for more information
-[Banking Assistant's usage](https://www.youtube.com/watch?v=dnZbtPNeZTo)
+You may also link to youtube for more information.
+_[Banking Assistant's usage](https://www.youtube.com/watch?v=dnZbtPNeZTo)
