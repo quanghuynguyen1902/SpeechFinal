@@ -1,0 +1,226 @@
+{
+	"answers" : [
+		{
+			"id": "001",
+			"answer": "Bạn có thể rút tiền tại các chi nhánh của ngân hàng hoặc tại các booth ATM có liên kết với ngân hàng."
+		},
+		{
+			"id": "002",
+			"answer": "Bạn có thể đến gửi tiền tại các chi nhánh của ngân hàng trên toàn quốc."
+		},
+		{
+			"id": "003",
+			"answer": "Bạn có thể đăng nhập vào tài khoản của bạn trên trang web của ngân hàng."
+		},
+		{
+			"id": "004",
+			"answer": "Bạn có thể sử dụng hệ thống online banking hoặc bạn có thể ra các chi nhánh của ngân hàng để thực hiện giao dịch."
+		},
+		{
+			"id": "005",
+			"answer": "Để đăng kí thẻ ghi nợ( tín dụng) thì trước tiên bạn phải chứng minh thu nhập tài chính của bản thân với ngân hàng, từ đó nhân viên ngân hàng sẽ hướng dẫn bạn trong các bước tiếp theo."
+		},
+		{
+			"id": "006",
+			"answer": "Bạn có thể xem thông tin chi tiết về ngân hàng tại trang web www.nganhang.com"
+		},
+		{
+			"id": "007",
+			"answer": "Tiền gửi thanh toán là khoản tiền do người sử dụng dịch vụ thanh toán gửi vào Ngân hàng với mục đích giữ tiền hoặc thực hiện các giao dịch thanh toán qua Ngân hàng bằng các phương tiện thanh toán."
+		},
+		{
+			"id": "008",
+			"answer": "Tiền gửi tiết kiệm là khoản tiền của cá nhân được gửi vào Ngân hàng thông qua tài khoản tiết kiệm."
+		},
+		{
+			"id": "009",
+			"answer": "Tiền gửi không kỳ hạn là khoản tiền được gửi vào ngân hàng với mục đích giữ tiền hoặc thực hiện các giao dịch thanh toán qua ngân hàng."
+		},
+		{
+			"id": "010",
+			"answer": "Tiền gửi có kỳ hạn là khoản tiền gửi gửi vào Ngân hàng có thỏa thuận kỳ hạn, lãi suất và điều kiện thanh toán khoản tiền gửi có kỳ hạn thông qua hợp đồng tiền gửi."
+		},
+		{
+			"id": "011",
+			"answer": "Thẻ tiết kiệm là chứng chỉ xác nhận quyền sở hữu của chủ sở hữu tiền gửi tiết kiệm hoặc đồng chủ sở hữu tiền gửi tiết kiệm về khoản tiền đã gửi tại ngân hàng."
+		},
+		{
+			"id": "012",
+			"answer": "Mức cho vay tùy thuộc vào phương án vay vốn, tình hình tài chính, khả năng trả nợ và tài sản bảo đảm của quý khách."
+		},
+		{
+			"id": "013",
+			"answer": "Bạn cần cung cấp 4 loại hồ sơ chính: Hồ sơ pháp lý, Hồ sơ chứng minh năng lực, tình hình tài chính, Hồ sơ chứng minh mục đích vay vốn, Hồ sơ tài sản bảo đảm."
+		},
+		{
+			"id": "014",
+			"answer": "Thẻ tín dụng là một hình thức thanh toán trong đó khách hàng sẽ được ngân hàng cấp một hạn mức tín dụng cho phép khách hàng được giao dịch trong hạn mức đã được cấp."
+		},
+		{
+			"id": "015",
+			"answer": "Thẻ ghi nợ nội địa là thẻ được tổ chức phát hành thẻ tại Việt Nam phát hành để giao dịch trong phạm vi số tiền trên Tài khoản thanh toán."
+		},
+		{
+			"id": "016",
+			"answer": "Thẻ ghi nợ quốc tế là phương tiện thanh toán cho phép chủ thẻ thực hiện các giao dịch trong phạm vi số tiền trên tài khoản của Chủ thẻ."
+		},
+		{
+			"id": "017",
+			"answer": "Bạn có thể rút tiền mặt ngoại tệ tại các chi nhánh của ngân hàng trên toàn quốc."
+		},
+		{
+			"id": "018",
+			"answer": "Bạn phải xác minh được mình là chủ tài khoản để có thể thực hiên giao dịch."
+		},
+		{
+			"id": "019",
+			"answer": "Bạn hãy báo lỗi giao dịch cho nhân viên ngân hàng sớm nhất có thể để xử lý."
+		},
+		{
+			"id": "020",
+			"answer": "Thẻ ghi nợ nội địa có thể thanh toán các dịch vụ, hàng hóa ở trong lãnh thổ Việt Nam."
+		},
+		{
+			"id": "021",
+			"answer": "Bạn hãy báo lỗi dao dịch cho nhân viên ngân hàng sớm nhất có thể để xử lý."
+		},
+		{
+			"id": "022",
+			"answer": "Bạn có thể thông báo với nhân viên ngân hàng và bạn phải xác minh được bạn là chủ thẻ để lấy lại mã PIN của thẻ."
+		},
+		{
+			"id": "023",
+			"answer": "Bạn hãy liên hệ trực tiếp với ngân hàng để mở khóa lại thẻ."
+		},
+		{
+			"id": "024",
+			"answer": "Để làm lại thẻ bạn phải thông báo cho ngân hàng về tình trạng thẻ của bạn."
+		},
+		{
+			"id": "025",
+			"answer": "Bạn sẽ phải đăng kí lại thẻ thanh toán mới và liên kết tài khoản thanh toán bạn đang sử dụng với thẻ được đăng kí mới."
+		},
+		{
+			"id": "026",
+			"answer": "Thẻ phi vật lí là dạng thẻ thanh toán ảo được tích hợp vào thiết bị điện tử có khả năng sử dụng tại các cổng thanh toán chuyên dụng."
+		},
+		{
+			"id":"027",
+			"answer": "Dịch vụ sẽ bị tự động khóa sau khi khách hàng nhập sai mật khẩu quá số lần quy định."
+		}
+	],
+"questions": [
+		{
+			"id" : "001",
+			"question": "Tôi có thể rút tiền ở đâu?",
+			"answer_id": "001"
+		},
+		{
+			"id": "002",
+			"question": "Tôi có thể gửi tiền ở đâu?",
+			"answer_id": "002"
+		},
+		{
+			"id" : "003",
+			"question": "Tôi có thể truy vấn số dư bằng cách nào?",
+			"answer_id": "003"
+		},
+		{	"id" : "004",
+			"question": "Tôi có thể chuyển tiền bằng các phương thức nào?",
+			"answer_id": "004"
+		},
+		{	"id" : "005",
+			"question": "Làm thế nào để đăng kí thẻ ghi nợ?",
+			"answer_id": "005"
+		},
+		{	"id" : "006",
+			"question": "Tôi có thể tìm thêm thông tin về ngân hàng ở đâu?",
+			"answer_id": "006"
+		},
+		{	"id" : "007",
+			"question": "Tiền gửi thanh toán là gì?",
+			"answer_id": "007"
+		},
+		{	"id" : "008",
+			"question": "Tiền gửi tiết kiệm là gì?",
+			"answer_id": "008"
+		},
+		{	"id" : "009",
+			"question": "Tiền gửi không kỳ hạn là gì ?",
+			"answer_id": "009"
+		},
+		{	"id" : "010",
+			"question": "Tiền gửi có kỳ hạn là gì?",
+			"answer_id": "010"
+		},
+		{	"id" : "011",
+			"question": "Thẻ tiết kiệm là gì?",
+			"answer_id": "011"
+		},
+		{	"id" : "012",
+			"question": "Tôi có thể vay với số tiền tối đa là bao nhiêu?",
+			"answer_id": "012"
+		},
+		{	"id" : "013",
+			"question": "Để vay vốn tại ngân hàng, tôi cần chuẩn bị hồ sơ giấy tờ nào?",
+			"answer_id": "013"
+		},
+		{	"id" : "014",
+			"question": "Thẻ tín dụng là gì?",
+			"answer_id": "014"
+		},
+		{	"id" : "015",
+			"question": "Thẻ ghi nợ nội địa là thẻ gì?",
+			"answer_id": "015"
+		},
+		{	"id" : "016",
+			"question": "Thẻ ghi nợ quốc tế là gì?",
+			"answer_id": "016"
+		},
+		{	"id" : "017",
+			"question": "Tôi có được rút tiền mặt từ tài khoản ngoại tệ không?",
+			"answer_id": "017"
+		},
+		{	"id" : "018",
+			"question": "Gửi tiền tiết kiệm không mang chứng minh nhân dân có được không?",
+			"answer_id": "018"
+		},
+		{	"id" : "019",
+			"question": "Tôi phải làm gì khi bị thu thẻ tại máy ATM?",
+			"answer_id": "019"
+		},
+		{	"id" : "020",
+			"question": "Tôi có thể sử dụng thẻ ghi nợ nội địa để thanh toán hàng hóa, dịch vụ trên Website được không?",
+			"answer_id": "020"
+		},
+		{	"id" : "021",
+			"question": "Khi bị mất thẻ, tôi cần làm gì?",
+			"answer_id": "021"
+		},
+		{	"id" : "022",
+			"question": "Tôi đã quên số PIN sử dụng, tôi phải làm thế nào?",
+			"answer_id": "022"
+		},
+		{	"id" : "023",
+			"question": "Tôi muốn mở lại thẻ đã khóa thì phải làm thế nào?",
+			"answer_id": "023"
+		},
+		{	"id" : "024",
+			"question": "Thẻ của tôi bị gẫy hỏng, không sử dụng được nữa, tôi phải làm gì?",
+			"answer_id": "024"
+		},
+		{	"id" : "025",
+			"question": "Thẻ của tôi sắp hết hạn sử dụng, vậy tôi cần làm gì để được tiếp tục sử dụng thẻ này.",
+			"answer_id": "025"
+		},
+		{	"id" : "026",
+			"question": "Thẻ phi vật lý là gì?",
+			"answer_id": "026"
+		},
+		{	"id" : "027",
+			"question": "Tôi nhập sai mật khẩu có bị khóa dịch vụ không?",
+			"answer_id": "027"
+		}
+	]
+}
+
