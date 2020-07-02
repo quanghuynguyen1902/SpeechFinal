@@ -3,8 +3,6 @@
 ## Table of Contents
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
 
@@ -16,12 +14,19 @@ This section should list any major frameworks that you built your project using.
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 * [Vuejs](https://vuejs.org/)
 * [GoogleAPI](https://cloud.google.com/speech-to-text)
-* [Coccoc-tokenizer](https://github.com/coccoc/coccoc-tokenizer)
-
-
-
-## Getting Started
-
+* [Coccoc-tokenizer](https://github.com/coccoc/coccoc-tokenizer
+ 
 ## Usage
-You may also link to youtube for more information.
-_[Banking Assistant's usage](https://www.youtube.com/watch?v=dnZbtPNeZTo)
+You may also link to youtube for more information <br>
+[Banking Assistant's usage](https://www.youtube.com/watch?v=dnZbtPNeZTo)
+
+## Contributer
+
+- Do Van Bang: [@bangdo172](https://github.com/bangdo172)
+- Nguyen Tuan Quang: [@ntquang22298](https://github.com/ntquang22298)
+- Nguyen Quang Huy: [@quanghuynguyen1902](https://github.com/quanghuynguyen1902)
+- Tran Hai Nam: [@GMJoker1964](https://github.com/GMJoker1964)
+- Hoang Van Hieu
+
+
+
